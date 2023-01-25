@@ -1,3 +1,4 @@
+
 #!/bin/sh
 . "$(dirname "$0")/_/husky.sh"
 
@@ -13,3 +14,13 @@ while read line; do
 done < "${1}"
 
 exit 0
+
+#!/bin/sh
+
+
+
+
+
+
+
+
